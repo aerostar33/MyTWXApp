@@ -1,0 +1,36 @@
+plugins {
+//start thingworx plugins
+  id 'maven-publish'
+  id 'java'
+//end thingworx plugins
+}
+
+version='1.0.0'
+
+configurations{
+//start thingworx configurations
+    twx
+//end thingworx configurations
+}
+
+repositories{
+//start thingworx repositories
+//end thingworx repositories
+}
+
+dependencies{
+//start thingworx dependencies
+//end thingworx dependencies
+}
+
+publishing {
+//start thingworx publishing
+  publications {
+    twxMaven(MavenPublication) {
+      groupId ''
+      artifactId ''
+      version '1.0.0'
+    }
+  }
+//end thingworx publishing
+}
