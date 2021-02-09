@@ -9,7 +9,7 @@
  universal="">
     <Things>
         <Thing
-         description="test from GitHub"
+         description="Test for Fresenius"
          documentationContent=""
          effectiveThingPackage="ConfiguredThing"
          enabled="true"
