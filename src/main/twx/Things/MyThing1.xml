@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+..\<?xml version="1.0" encoding="UTF-8"?>
 <Entities
  build="latest"
  majorVersion="0"
@@ -9,7 +9,7 @@
  universal="">
     <Things>
         <Thing
-         description="Test for Fresenius"
+         description="Test for Monday"
          documentationContent=""
          effectiveThingPackage="ConfiguredThing"
          enabled="true"
